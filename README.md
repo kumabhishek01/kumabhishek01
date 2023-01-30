@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+</div>
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">Tech-driven developer with a passion for pushing technology boundaries.</h3>
 
