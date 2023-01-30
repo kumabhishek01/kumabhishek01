@@ -13,6 +13,31 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1tvaUK3HeEV83rB9cu1T1lY3TtmGzY_ZO/view?usp=share_link](https://drive.google.com/file/d/1tvaUK3HeEV83rB9cu1T1lY3TtmGzY_ZO/view?usp=share_link)
 
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const abhishek = {
+    code: ["Javascript", "Python", "Java", "Apex"],
+    askMeAbout: ["web dev", "tech", "app dev", "traveller", "salesforce"],
+    technologies: {
+        frontend: {
+            js: ["react", "node","express"],
+        },
+        mobileApp: {
+            native: ["Android Development"]
+        },
+        devOps: ["AWS"],
+        databases: ["mongo", "MySql"],
+        misc: ["Firebase", "Socket.IO"]
+    },
+    architecture: ["Progressive web applications", "Single page applications"],
+    currentFocus: "Empowering my tech skills with React and fueling my wanderlust by exploring India."
+};
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/wtfabhishekwhy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wtfabhishekwhy" height="30" width="40" /></a>
